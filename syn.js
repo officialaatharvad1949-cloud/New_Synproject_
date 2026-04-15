@@ -11,7 +11,7 @@ let time_taken=10;
 const time_left=[];
 let quize_cache=null;
 
-const API_KEY="AIzaSyAiNnwyB09ok4Z9OAHZbqEB3ltpLQD2DTM"
+const API_KEY=""
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`
 // const input=document.getElementById("")
 const ans_sheet=document.createElement('div');
